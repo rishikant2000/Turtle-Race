@@ -18,14 +18,14 @@ Riki = Turtle()
 Riki.color("powderblue")
 Riki.shape("turtle")
 Riki.penup()
-Riki.goto(-150,60)
+Riki.goto(-160,60)
 Riki.pendown()
 
 Rishabh = Turtle()
 Rishabh.color("Green")
 Rishabh.shape("turtle")
 Rishabh.penup()
-Rishabh.goto(-170,20)
+Rishabh.goto(-160,20)
 Rishabh.pendown()
 
 
